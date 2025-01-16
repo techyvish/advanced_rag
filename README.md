@@ -1,4 +1,4 @@
-``# ReAct Agent Executor
+# Advanced RAG
 
 Welcome to the **ReAct Agent Executor** project! This repository leverages LangChain and OpenAI APIs to demonstrate a ReAct (Reason + Act) agent approach for intelligent text generation and interactions.
 
