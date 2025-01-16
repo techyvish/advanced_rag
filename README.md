@@ -1,5 +1,7 @@
 # Advanced RAG
 
+![mermaid-flow-1x](https://github.com/user-attachments/assets/f0eb2037-3e87-4e40-bdbd-a726cd350583)
+
 Welcome to the **ReAct Agent Executor** project! This repository leverages LangChain and OpenAI APIs to demonstrate a ReAct (Reason + Act) agent approach for intelligent text generation and interactions.
 
 ---
