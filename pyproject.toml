@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "document-search"
+version = "0.1.0"
+description = ""
+authors = ["vishal <vis8051@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+beautifulsoup4 = "^4.12.3"
+langchain = "^0.3.7"
+langchain-community = "^0.3.7"
+langchainhub = "^0.1.21"
+langgraph = "^0.2.52"
+tavily-python = "^0.5.0"
+langchain-chroma = "^0.1.4"
+python-dotenv = "^1.0.1"
+black = "^24.10.0"
+isort = "^5.13.2"
+pytest = "^8.3.3"
+langchain-openai = "^0.2.9"
+
+
+[tool.poetry.group.dev.dependencies]
+setuptools = "^75.5.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
