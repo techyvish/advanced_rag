@@ -46,10 +46,6 @@ TAVILY_API_KEY=``
 
 From the project’s root directory, run:
 
-bash
-
-Copy
-
 `poetry install` 
 
 This command will install all required dependencies listed in `pyproject.toml`.
@@ -64,26 +60,14 @@ Once your environment is set up and dependencies are installed, you can run or m
 
 1.  Ensuring you have the correct environment variables in `.env`.
 2.  Activating the Poetry virtual environment:
-    
-    bash
-    
-    Copy
-    
+        
     `poetry shell` 
     
 3.  Running the script:
     
-    bash
-    
-    Copy
-    
     `poetry run python main.py` 
     
     or, if you have already activated the shell:
-    
-    bash
-    
-    Copy
     
     `python main.py` 
     
